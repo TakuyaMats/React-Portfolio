@@ -2,13 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import GlobalStyles from './styles/GlobalStyle'
-import './index.css';
+import Typography from './styles/Typography'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
     <>
         <GlobalStyles />
-        <App />,
+        <Typography />
+        <App />
     </>,
     document.getElementById('root')
 );

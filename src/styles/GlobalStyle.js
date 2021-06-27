@@ -1,8 +1,4 @@
-import {
-    createGlobalStyle
-}
-
-from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles=createGlobalStyle` * {
     padding: 0;
@@ -21,7 +17,7 @@ const GlobalStyles=createGlobalStyle` * {
 
 html {
     font-size: 10px;
-    font-family: 'Roboto Mono';
+    font-family: 'Roboto Mono', monospace;
     background-color: var(--dark-bg);
 }
 
