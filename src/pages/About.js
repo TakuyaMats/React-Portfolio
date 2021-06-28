@@ -2,7 +2,6 @@ import React from 'react';
 import PText from '../components/PText/PText';
 import styled from 'styled-components';
 import ContactBanner from '../components/ContactBanner/ContactBanner';
-import Button from '../components/Button/Button';
 import AboutInfoItem from '../components/AboutInfoItem/AboutInfoItem';
 import AboutImg from '../assets/img/about-page-img.jpeg';
 import Resume from '../assets/resume/resume.pdf';
@@ -51,8 +50,26 @@ const AboutStyle = styled.div`
         font-size: 3.6rem;
         text-transform: uppercase;
     }
+    .resume {
+        margin-top: 2rem;
+        font-size: 2.2rem;
+        background-color: ${(props) => 
+            props.outline ? 'transparent' : 'var(--gray-1)'};
+        padding: 0.7rem 2em;
+        border-radius: 8px;
+        display: inline-block;
+        border: 2px solid var(--gray-1);
+        color: ${props => (
+            props.outline ? 'var(--gray-1)' : 'black')}
+    }
+    .resume a {
+        color: var(--black);
+    }
     @media only screen and (max-width: 768px) {
         padding: 10rem 0;
+        .resume {
+            font-size: 1.8rem;
+        }
         .top-section {
             flex-direction: column;
             gap: 5rem;
@@ -90,7 +107,9 @@ function About() {
                             Previously a digital technician with experience in the photography industry, with skills in photoshoots, management, and adobe photoshop.
                             </PText>
                         </div>
-                        <Button btnText="Download CV" btnLink="#" />
+                        <div className="resume">
+                            <a href={Resume} target="_blank" rel="noreferrer">Download Resume</a>
+                        </div>
                         </div>
                         <div className="right">
                     <img src={AboutImg} alt="me" />

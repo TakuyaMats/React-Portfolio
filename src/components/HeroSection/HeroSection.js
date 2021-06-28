@@ -158,7 +158,7 @@ function HeroSection() {
                         <img src={HeroImg} alt="" />
                     </div>
                     <div className="hero__info">
-                        <PText>
+                        <PText className="hero__info__text">
                         Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and web development. 
                         Strong arts and professional design background with a Certificate in Computer Software Engineering from Rutgers University–New Brunswick. 
                         Strengths in creativity, teamwork, and building projects from ideation to execution.

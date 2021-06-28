@@ -82,7 +82,7 @@ function AboutSection() {
                     />
                     <PText>
                     Previously a digital technician with experience in the photography industry, with skills in photoshoots, management, and adobe photoshop.
-                    I love music and always love sharing new music to my friends.
+                    I love music and always love sharing new music with my friends.
                     </PText>
                     <div className="aboutSection__buttons">
                         <Button btnLink="/projects" btnText="Works" />

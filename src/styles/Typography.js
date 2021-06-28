@@ -29,7 +29,7 @@ html {
 
 * {
     font-family: 'Roboto Mono', monospace;
-    color: var(--gray-1);
+    color: white;
 }
 
 h1,
