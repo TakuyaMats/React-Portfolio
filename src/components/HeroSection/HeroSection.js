@@ -63,7 +63,8 @@ const HeroStyle = styled.div`
         p {
             font-size: 1.6rem
             transform: translateY(-70px) rotate(90deg);
-            letter-spacing: .7rem;
+            transform: rotate(-90deg);
+            letter-spacing: 0.7rem;
             text-transform: uppercase;
         }
         img {
@@ -111,7 +112,7 @@ const HeroStyle = styled.div`
         }
         .hero__social {
             left: 0px;
-            bottom: 15%;
+            bottom: -15%;
             width: 20px;
             .hero__social__indicator {
                 width: 20px;
@@ -160,8 +161,7 @@ function HeroSection() {
                         <PText>
                         Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and web development. 
                         Strong arts and professional design background with a Certificate in Computer Software Engineering from Rutgers University–New Brunswick. 
-                        Strengths in creativity, teamwork, and building projects from ideation to execution. 
-                        Previously a digital technician with experience in the photography industry, with skills in photoshoots, management, and adobe photoshop.
+                        Strengths in creativity, teamwork, and building projects from ideation to execution.
                         </PText>
                         <Button btnLink="/projects" btnText="see my works" />
                     </div>
