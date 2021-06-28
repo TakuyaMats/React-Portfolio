@@ -11,6 +11,7 @@ const ColStyle = styled.div`
         margin-bottom: 1rem;
     }
     a {
+        color: var(--gray-1);
         font-size: 1.8rem;
     }
 `;

@@ -4,7 +4,6 @@ import HeroSection from '../components/HeroSection/HeroSection'
 import AboutSection from '../components/AboutSection/AboutSection'
 import ProjectSection from '../components/ProjectSection/ProjectSection';
 import ContactBanner from '../components/ContactBanner/ContactBanner';
-import Footer from '../components/Footer/Footer';
 
 
 const HomeStyle = styled.div`
@@ -18,7 +17,6 @@ function Home() {
             <AboutSection />
             <ProjectSection />
             <ContactBanner />
-            <Footer />
         </HomeStyle>
     )
 }
