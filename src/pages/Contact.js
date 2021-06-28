@@ -1,10 +1,18 @@
 import React from 'react'
+import styled from 'styled-components';
+import ContactSection from '../components/ContactSection/ContactSection';
+import Map from '../components/Map/Map';
+
+const ContactStyle = styled.div`
+    background-color: var(--dark-bg);
+`;
 
 function Contact() {
     return (
-        <div>
-            {/* <h1>This is the contact page!</h1> */}
-        </div>
+        <ContactStyle>
+            <ContactSection />
+            <Map />
+        </ContactStyle>
     )
 }
 
