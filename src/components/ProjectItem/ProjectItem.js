@@ -26,7 +26,7 @@ const ProjectItemStyles = styled.div`
     }
     .projectItem__desc {
         font-size: 1.6rem;
-        font-family: 'RobotoMono Regular';
+        font-family: 'Roboto Mono', monospace;
         margin-top: 1rem;
     }
     @media only screen and (max-width: 768px) {
@@ -36,17 +36,21 @@ const ProjectItemStyles = styled.div`
     }
 `;
 
-function ProjectItem() {
+function ProjectItem({
+    img= projectImg,
+    title= 'Project Name',
+    desc= 'lorem ipsum dolor sit amet, consectetur adip'
+}) {
     return (
         <ProjectItemStyles>
             <Link to="/projects" className="projectItem__img">
-                <img src={projectImg} alt="project img" />
+                <img src={img} alt="project img" />
             </Link>
             <div className="projectItem__info">
                 <Link to='#'>
-                    <h3 className="projectItem__title">Project 1</h3>
+                    <h3 className="projectItem__title">{title}</h3>
                 </Link>
-                <p className="projectItem__desc">lorem ipsum dolor sit amet, consectetur adip</p>
+                <p className="projectItem__desc">{desc}</p>
             </div>
         </ProjectItemStyles>
     )
