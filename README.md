@@ -34,7 +34,7 @@ Portfolio built with React.js
 
 - [github repository site] https://github.com/TakuyaMats/React-Portfolio
 
-- [live site] https://enigmatic-beach-93573.herokuapp.com/
+- [live site]
 
 <a name="demo"></a>
 
