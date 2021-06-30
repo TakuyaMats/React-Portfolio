@@ -34,7 +34,7 @@ Portfolio built with React.js
 
 - [github repository site] https://github.com/TakuyaMats/React-Portfolio
 
-- [live site]
+- [live site] https://takuyamats.github.io/React-Portfolio/
 
 <a name="demo"></a>
 
