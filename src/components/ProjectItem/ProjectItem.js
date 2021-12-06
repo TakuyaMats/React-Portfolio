@@ -24,6 +24,13 @@ const ProjectItemStyles = styled.div`
     .projectItem__title {
         font-size: 2.2rem;
     }
+    .projectItem__title a {
+        text-decoration: none;
+        color: inherit;
+    }
+    .projectItem__title a:hover {
+        color: red;
+    }
     .projectItem__desc {
         font-size: 1.6rem;
         font-family: 'Roboto Mono', monospace;
