@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio/static/js/main.861936f8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.861936f8.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.33ea1b5a.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.33ea1b5a.js.map",
+    "static/css/2.d4d88b5f.chunk.css": "/React-Portfolio/static/css/2.d4d88b5f.chunk.css",
+    "static/js/2.81abbf0e.chunk.js": "/React-Portfolio/static/js/2.81abbf0e.chunk.js",
+    "static/js/2.81abbf0e.chunk.js.map": "/React-Portfolio/static/js/2.81abbf0e.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.d4d88b5f.chunk.css.map": "/React-Portfolio/static/css/2.d4d88b5f.chunk.css.map",
+    "static/js/2.81abbf0e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.81abbf0e.chunk.js.LICENSE.txt",
+    "static/media/Fitness-Tracker.94bdc0cf.png": "/React-Portfolio/static/media/Fitness-Tracker.94bdc0cf.png",
+    "static/media/Hero.78b08b99.jpeg": "/React-Portfolio/static/media/Hero.78b08b99.jpeg",
+    "static/media/Tech-Blog.09018db9.png": "/React-Portfolio/static/media/Tech-Blog.09018db9.png",
+    "static/media/about-me-img.3734d48e.jpg": "/React-Portfolio/static/media/about-me-img.3734d48e.jpg",
+    "static/media/about-page-img.2a0268f4.jpeg": "/React-Portfolio/static/media/about-page-img.2a0268f4.jpeg",
+    "static/media/employeeTracker.658d3ff6.png": "/React-Portfolio/static/media/employeeTracker.658d3ff6.png",
+    "static/media/map.9d6f58bc.jpg": "/React-Portfolio/static/media/map.9d6f58bc.jpg",
+    "static/media/note-taker.8834cdbd.png": "/React-Portfolio/static/media/note-taker.8834cdbd.png",
+    "static/media/pokemon-deck-builder.ee9eb176.png": "/React-Portfolio/static/media/pokemon-deck-builder.ee9eb176.png",
+    "static/media/projectImg.771236e1.png": "/React-Portfolio/static/media/projectImg.771236e1.png",
+    "static/media/resume.e3aedfbf.pdf": "/React-Portfolio/static/media/resume.e3aedfbf.pdf",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/React-Portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/React-Portfolio/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33ea1b5a.js",
+    "static/css/2.d4d88b5f.chunk.css",
+    "static/js/2.81abbf0e.chunk.js",
+    "static/js/main.861936f8.chunk.js"
+  ]
+}
