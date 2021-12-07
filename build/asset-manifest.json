@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/React-Portfolio/static/js/main.419df272.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.419df272.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8e19d3e9.js.map",
-    "static/css/2.6e4b5840.chunk.css": "/React-Portfolio/static/css/2.6e4b5840.chunk.css",
-    "static/js/2.d40bf4ca.chunk.js": "/React-Portfolio/static/js/2.d40bf4ca.chunk.js",
-    "static/js/2.d40bf4ca.chunk.js.map": "/React-Portfolio/static/js/2.d40bf4ca.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.861936f8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.861936f8.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.33ea1b5a.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.33ea1b5a.js.map",
+    "static/css/2.d4d88b5f.chunk.css": "/React-Portfolio/static/css/2.d4d88b5f.chunk.css",
+    "static/js/2.81abbf0e.chunk.js": "/React-Portfolio/static/js/2.81abbf0e.chunk.js",
+    "static/js/2.81abbf0e.chunk.js.map": "/React-Portfolio/static/js/2.81abbf0e.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/2.6e4b5840.chunk.css.map": "/React-Portfolio/static/css/2.6e4b5840.chunk.css.map",
-    "static/js/2.d40bf4ca.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d40bf4ca.chunk.js.LICENSE.txt",
+    "static/css/2.d4d88b5f.chunk.css.map": "/React-Portfolio/static/css/2.d4d88b5f.chunk.css.map",
+    "static/js/2.81abbf0e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.81abbf0e.chunk.js.LICENSE.txt",
     "static/media/Fitness-Tracker.94bdc0cf.png": "/React-Portfolio/static/media/Fitness-Tracker.94bdc0cf.png",
     "static/media/Hero.78b08b99.jpeg": "/React-Portfolio/static/media/Hero.78b08b99.jpeg",
     "static/media/Tech-Blog.09018db9.png": "/React-Portfolio/static/media/Tech-Blog.09018db9.png",
@@ -25,9 +25,9 @@
     "static/media/social-media-arrow.f5e093ce.svg": "/React-Portfolio/static/media/social-media-arrow.f5e093ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e19d3e9.js",
-    "static/css/2.6e4b5840.chunk.css",
-    "static/js/2.d40bf4ca.chunk.js",
-    "static/js/main.419df272.chunk.js"
+    "static/js/runtime-main.33ea1b5a.js",
+    "static/css/2.d4d88b5f.chunk.css",
+    "static/js/2.81abbf0e.chunk.js",
+    "static/js/main.861936f8.chunk.js"
   ]
 }
